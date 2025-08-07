@@ -1,0 +1,32 @@
+2025-08-05T13:15:16.704152-0400 | INFO | core.logger | AMAPI Logger initialized: DeviceAbstraction
+2025-08-05T13:15:16.705530-0400 | DEBUG | core.logger | Initialized 3 standard device profiles
+2025-08-05T13:15:16.706860-0400 | INFO | core.logger | Universal Device Abstraction initialized
+2025-08-05T13:15:16.708073-0400 | ERROR | orchestrator | Enhanced agent initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-05T13:15:16.710104-0400 | ERROR | orchestrator | ❌ Enhanced system initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-05T13:18:44.898548-0400 | INFO | core.amapi_core | AMAPI Core Learning System initialized
+2025-08-05T13:18:44.979502-0400 | INFO | core.logger | AMAPI Logger initialized: DeviceAbstraction
+2025-08-05T13:18:44.979502-0400 | DEBUG | core.logger | Initialized 3 standard device profiles
+2025-08-05T13:18:44.979502-0400 | INFO | core.logger | Universal Device Abstraction initialized
+2025-08-05T13:18:44.980488-0400 | ERROR | orchestrator | Enhanced agent initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-05T13:18:44.980488-0400 | ERROR | orchestrator | ❌ Enhanced system initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-05T13:21:13.546639-0400 | INFO | core.amapi_core | AMAPI Core Learning System initialized
+2025-08-05T13:21:13.630268-0400 | INFO | core.logger | AMAPI Logger initialized: DeviceAbstraction
+2025-08-05T13:21:13.630632-0400 | DEBUG | core.logger | Initialized 3 standard device profiles
+2025-08-05T13:21:13.630632-0400 | INFO | core.logger | Universal Device Abstraction initialized
+2025-08-05T13:21:13.631265-0400 | ERROR | orchestrator | Enhanced agent initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-05T13:21:13.631904-0400 | ERROR | orchestrator | ❌ Enhanced system initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-05T13:22:09.233115-0400 | INFO | core.logger | AMAPI Logger initialized: DeviceAbstraction
+2025-08-05T13:22:09.234131-0400 | DEBUG | core.logger | Initialized 3 standard device profiles
+2025-08-05T13:22:09.234131-0400 | INFO | core.logger | Universal Device Abstraction initialized
+2025-08-05T13:22:09.235129-0400 | ERROR | orchestrator | Enhanced agent initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-05T13:22:09.235129-0400 | ERROR | orchestrator | ❌ Enhanced system initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-05T13:23:01.180075-0400 | INFO | core.logger | AMAPI Logger initialized: DeviceAbstraction
+2025-08-05T13:23:01.181074-0400 | DEBUG | core.logger | Initialized 3 standard device profiles
+2025-08-05T13:23:01.182089-0400 | INFO | core.logger | Universal Device Abstraction initialized
+2025-08-05T13:23:01.183080-0400 | ERROR | orchestrator | Enhanced agent initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-05T13:23:01.186078-0400 | ERROR | orchestrator | ❌ Enhanced system initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-07T16:36:35.428415-0400 | INFO | core.logger | AMAPI Logger initialized: DeviceAbstraction
+2025-08-07T16:36:35.429411-0400 | DEBUG | core.logger | Initialized 3 standard device profiles
+2025-08-07T16:36:35.430411-0400 | INFO | core.logger | Universal Device Abstraction initialized
+2025-08-07T16:36:35.432312-0400 | ERROR | orchestrator | Enhanced agent initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-07T16:36:35.433415-0400 | ERROR | orchestrator | ❌ Enhanced system initialization failed: name 'DeviceCompatibilityChecker' is not defined

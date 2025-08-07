@@ -1,0 +1,113 @@
+2025-08-05T13:04:05.300417-0400 | INFO | core.logger | AMAPI Logger initialized: BehavioralLearning
+2025-08-05T13:04:05.300417-0400 | INFO | core.logger | Behavioral Pattern Engine initialized
+2025-08-05T13:04:05.301417-0400 | INFO | core.complexity_manager | Dynamic Complexity Manager initialized
+2025-08-05T13:04:05.302418-0400 | INFO | core.predictive_engine | Predictive Performance Engine initialized
+2025-08-05T13:04:05.303418-0400 | INFO | core.knowledge_hub | Collaborative Knowledge Hub initialized
+2025-08-05T13:04:05.303418-0400 | INFO | orchestrator | Enhanced QA Orchestrator with AMAPI integration initialized
+2025-08-05T13:04:20.203235-0400 | INFO | core.amapi_core | AMAPI Core Learning System initialized
+2025-08-05T13:04:20.223879-0400 | INFO | core.logger | AMAPI Logger initialized: BehavioralLearning
+2025-08-05T13:04:20.225131-0400 | INFO | core.logger | Behavioral Pattern Engine initialized
+2025-08-05T13:04:20.226423-0400 | INFO | core.complexity_manager | Dynamic Complexity Manager initialized
+2025-08-05T13:04:20.227569-0400 | INFO | core.predictive_engine | Predictive Performance Engine initialized
+2025-08-05T13:04:20.228141-0400 | INFO | core.knowledge_hub | Collaborative Knowledge Hub initialized
+2025-08-05T13:04:20.229355-0400 | INFO | orchestrator | Enhanced QA Orchestrator with AMAPI integration initialized
+2025-08-05T13:04:20.397471-0400 | INFO | core.amapi_core | AMAPI Core Learning System initialized
+2025-08-05T13:04:20.423331-0400 | INFO | core.logger | AMAPI Logger initialized: BehavioralLearning
+2025-08-05T13:04:20.426029-0400 | INFO | core.logger | Behavioral Pattern Engine initialized
+2025-08-05T13:04:20.426596-0400 | INFO | core.complexity_manager | Dynamic Complexity Manager initialized
+2025-08-05T13:04:20.427916-0400 | INFO | core.predictive_engine | Predictive Performance Engine initialized
+2025-08-05T13:04:20.429068-0400 | INFO | core.knowledge_hub | Collaborative Knowledge Hub initialized
+2025-08-05T13:04:20.430084-0400 | INFO | orchestrator | Enhanced QA Orchestrator with AMAPI integration initialized
+2025-08-05T13:14:27.769986-0400 | INFO | agents.base_agent | ✅ Agent-S framework imported successfully
+2025-08-05T13:14:27.782718-0400 | INFO | android_env_integration | ✅ AndroidWorld environment imported successfully
+2025-08-05T13:14:27.782718-0400 | INFO | android_env_integration | ✅ Agent-S framework imported successfully
+2025-08-05T13:15:16.437940-0400 | INFO | core.logger | AMAPI Logger initialized: BehavioralLearning
+2025-08-05T13:15:16.439924-0400 | INFO | core.logger | Behavioral Pattern Engine initialized
+2025-08-05T13:15:16.441923-0400 | INFO | core.complexity_manager | Dynamic Complexity Manager initialized
+2025-08-05T13:15:16.442941-0400 | INFO | core.predictive_engine | Predictive Performance Engine initialized
+2025-08-05T13:15:16.444923-0400 | INFO | core.knowledge_hub | Collaborative Knowledge Hub initialized
+2025-08-05T13:15:16.446931-0400 | INFO | orchestrator | Enhanced QA Orchestrator with AMAPI integration initialized
+2025-08-05T13:15:16.461930-0400 | INFO | orchestrator | 🚀 Initializing Enhanced Multi-Agent QA System with AMAPI...
+2025-08-05T13:15:16.467963-0400 | INFO | agents.base_agent | ✅ AMAPI_Planner_Agent successfully extends AgentS2
+2025-08-05T13:15:16.633033-0400 | INFO | core.logger | AMAPI Logger initialized: BehavioralLearning
+2025-08-05T13:15:16.634041-0400 | INFO | core.logger | Behavioral Pattern Engine initialized
+2025-08-05T13:15:16.636053-0400 | INFO | core.logger | Planner Agent initialized
+2025-08-05T13:15:16.638037-0400 | ERROR | core.logger | Error initializing agent attention: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:15:16.639049-0400 | ERROR | core.logger | Failed to initialize attention system: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:15:16.641036-0400 | ERROR | core.logger | Failed to start agent planner_1754414116464: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:15:16.645263-0400 | INFO | agents.base_agent | ✅ AMAPI_Executor_Agent successfully extends AgentS2
+2025-08-05T13:18:44.906117-0400 | INFO | core.logger | AMAPI Logger initialized: BehavioralLearning
+2025-08-05T13:18:44.906117-0400 | INFO | core.logger | Behavioral Pattern Engine initialized
+2025-08-05T13:18:44.907437-0400 | INFO | core.complexity_manager | Dynamic Complexity Manager initialized
+2025-08-05T13:18:44.907437-0400 | INFO | core.predictive_engine | Predictive Performance Engine initialized
+2025-08-05T13:18:44.907437-0400 | INFO | core.knowledge_hub | Collaborative Knowledge Hub initialized
+2025-08-05T13:18:44.907437-0400 | INFO | orchestrator | Enhanced QA Orchestrator with AMAPI integration initialized
+2025-08-05T13:18:44.911435-0400 | INFO | orchestrator | 🚀 Initializing Enhanced Multi-Agent QA System with AMAPI...
+2025-08-05T13:18:44.912435-0400 | INFO | agents.base_agent | ✅ AMAPI_Planner_Agent successfully extends AgentS2
+2025-08-05T13:18:44.958438-0400 | INFO | core.logger | AMAPI Logger initialized: BehavioralLearning
+2025-08-05T13:18:44.958438-0400 | INFO | core.logger | Behavioral Pattern Engine initialized
+2025-08-05T13:18:44.958438-0400 | INFO | core.logger | Planner Agent initialized
+2025-08-05T13:18:44.959436-0400 | ERROR | core.logger | Error initializing agent attention: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:18:44.959436-0400 | ERROR | core.logger | Failed to initialize attention system: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:18:44.959436-0400 | ERROR | core.logger | Failed to start agent planner_1754414324911: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:18:44.960435-0400 | INFO | agents.base_agent | ✅ AMAPI_Executor_Agent successfully extends AgentS2
+2025-08-05T13:21:13.555639-0400 | INFO | core.logger | AMAPI Logger initialized: BehavioralLearning
+2025-08-05T13:21:13.555639-0400 | INFO | core.logger | Behavioral Pattern Engine initialized
+2025-08-05T13:21:13.555639-0400 | INFO | core.complexity_manager | Dynamic Complexity Manager initialized
+2025-08-05T13:21:13.556396-0400 | INFO | core.predictive_engine | Predictive Performance Engine initialized
+2025-08-05T13:21:13.556903-0400 | INFO | core.knowledge_hub | Collaborative Knowledge Hub initialized
+2025-08-05T13:21:13.556903-0400 | INFO | orchestrator | Enhanced QA Orchestrator with AMAPI integration initialized
+2025-08-05T13:21:13.560126-0400 | INFO | orchestrator | 🚀 Initializing Enhanced Multi-Agent QA System with AMAPI...
+2025-08-05T13:21:13.562492-0400 | INFO | agents.base_agent | ✅ AMAPI_Planner_Agent successfully extends AgentS2
+2025-08-05T13:21:13.608830-0400 | INFO | core.logger | AMAPI Logger initialized: BehavioralLearning
+2025-08-05T13:21:13.608830-0400 | INFO | core.logger | Behavioral Pattern Engine initialized
+2025-08-05T13:21:13.609806-0400 | INFO | core.logger | Planner Agent initialized
+2025-08-05T13:21:13.609806-0400 | ERROR | core.logger | Error initializing agent attention: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:21:13.610806-0400 | ERROR | core.logger | Failed to initialize attention system: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:21:13.610806-0400 | ERROR | core.logger | Failed to start agent planner_1754414473561: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:21:13.611805-0400 | INFO | agents.base_agent | ✅ AMAPI_Executor_Agent successfully extends AgentS2
+2025-08-05T13:22:09.032289-0400 | INFO | core.logger | AMAPI Logger initialized: BehavioralLearning
+2025-08-05T13:22:09.033290-0400 | INFO | core.logger | Behavioral Pattern Engine initialized
+2025-08-05T13:22:09.034289-0400 | INFO | core.complexity_manager | Dynamic Complexity Manager initialized
+2025-08-05T13:22:09.035290-0400 | INFO | core.predictive_engine | Predictive Performance Engine initialized
+2025-08-05T13:22:09.035290-0400 | INFO | core.knowledge_hub | Collaborative Knowledge Hub initialized
+2025-08-05T13:22:09.036290-0400 | INFO | orchestrator | Enhanced QA Orchestrator with AMAPI integration initialized
+2025-08-05T13:22:09.044342-0400 | INFO | orchestrator | 🚀 Initializing Enhanced Multi-Agent QA System with AMAPI...
+2025-08-05T13:22:09.046391-0400 | INFO | agents.base_agent | ✅ AMAPI_Planner_Agent successfully extends AgentS2
+2025-08-05T13:22:09.180326-0400 | INFO | core.logger | AMAPI Logger initialized: BehavioralLearning
+2025-08-05T13:22:09.180326-0400 | INFO | core.logger | Behavioral Pattern Engine initialized
+2025-08-05T13:22:09.181324-0400 | INFO | core.logger | Planner Agent initialized
+2025-08-05T13:22:09.181324-0400 | ERROR | core.logger | Error initializing agent attention: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:22:09.183325-0400 | ERROR | core.logger | Failed to initialize attention system: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:22:09.184325-0400 | ERROR | core.logger | Failed to start agent planner_1754414529045: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:22:09.185325-0400 | INFO | agents.base_agent | ✅ AMAPI_Executor_Agent successfully extends AgentS2
+2025-08-05T13:23:00.961695-0400 | INFO | core.logger | AMAPI Logger initialized: BehavioralLearning
+2025-08-05T13:23:00.962702-0400 | INFO | core.logger | Behavioral Pattern Engine initialized
+2025-08-05T13:23:00.963702-0400 | INFO | core.complexity_manager | Dynamic Complexity Manager initialized
+2025-08-05T13:23:00.964702-0400 | INFO | core.predictive_engine | Predictive Performance Engine initialized
+2025-08-05T13:23:00.965702-0400 | INFO | core.knowledge_hub | Collaborative Knowledge Hub initialized
+2025-08-05T13:23:00.966703-0400 | INFO | orchestrator | Enhanced QA Orchestrator with AMAPI integration initialized
+2025-08-05T13:23:00.971969-0400 | INFO | orchestrator | 🚀 Initializing Enhanced Multi-Agent QA System with AMAPI...
+2025-08-05T13:23:00.976452-0400 | INFO | agents.base_agent | ✅ AMAPI_Planner_Agent successfully extends AgentS2
+2025-08-05T13:23:01.110951-0400 | INFO | core.logger | AMAPI Logger initialized: BehavioralLearning
+2025-08-05T13:23:01.112946-0400 | INFO | core.logger | Behavioral Pattern Engine initialized
+2025-08-05T13:23:01.113959-0400 | INFO | core.logger | Planner Agent initialized
+2025-08-05T13:23:01.114958-0400 | ERROR | core.logger | Error initializing agent attention: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:23:01.116948-0400 | ERROR | core.logger | Failed to initialize attention system: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:23:01.118942-0400 | ERROR | core.logger | Failed to start agent planner_1754414580975: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:23:01.122947-0400 | INFO | agents.base_agent | ✅ AMAPI_Executor_Agent successfully extends AgentS2
+2025-08-07T16:36:35.166916-0400 | INFO | core.logger | AMAPI Logger initialized: BehavioralLearning
+2025-08-07T16:36:35.167863-0400 | INFO | core.logger | Behavioral Pattern Engine initialized
+2025-08-07T16:36:35.168805-0400 | INFO | core.complexity_manager | Dynamic Complexity Manager initialized
+2025-08-07T16:36:35.169810-0400 | INFO | core.predictive_engine | Predictive Performance Engine initialized
+2025-08-07T16:36:35.170806-0400 | INFO | core.knowledge_hub | Collaborative Knowledge Hub initialized
+2025-08-07T16:36:35.171886-0400 | INFO | orchestrator | Enhanced QA Orchestrator with AMAPI integration initialized
+2025-08-07T16:36:35.179804-0400 | INFO | orchestrator | 🚀 Initializing Enhanced Multi-Agent QA System with AMAPI...
+2025-08-07T16:36:35.181805-0400 | INFO | agents.base_agent | ✅ AMAPI_Planner_Agent successfully extends AgentS2
+2025-08-07T16:36:35.355804-0400 | INFO | core.logger | AMAPI Logger initialized: BehavioralLearning
+2025-08-07T16:36:35.355804-0400 | INFO | core.logger | Behavioral Pattern Engine initialized
+2025-08-07T16:36:35.356826-0400 | INFO | core.logger | Planner Agent initialized
+2025-08-07T16:36:35.357823-0400 | ERROR | core.logger | Error initializing agent attention: 'action_planning' is not a valid AttentionPoolType
+2025-08-07T16:36:35.358821-0400 | ERROR | core.logger | Failed to initialize attention system: 'action_planning' is not a valid AttentionPoolType
+2025-08-07T16:36:35.360821-0400 | ERROR | core.logger | Failed to start agent planner_1754598995179: 'action_planning' is not a valid AttentionPoolType
+2025-08-07T16:36:35.364820-0400 | INFO | agents.base_agent | ✅ AMAPI_Executor_Agent successfully extends AgentS2

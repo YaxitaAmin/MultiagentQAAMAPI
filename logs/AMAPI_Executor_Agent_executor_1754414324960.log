@@ -1,0 +1,2 @@
+2025-08-05T13:18:44.974441-0400 | INFO | core.logger | AMAPI Logger initialized: AMAPI_Executor_Agent_executor_1754414324960
+2025-08-05T13:18:44.974441-0400 | INFO | agents.base_agent | 🚀 Initialized AMAPI_Executor_Agent extending Agent-S (Active: True)

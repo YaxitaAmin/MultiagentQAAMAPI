@@ -1,0 +1,12 @@
+2025-08-05T13:15:16.708073-0400 | ERROR | orchestrator | Enhanced agent initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-05T13:15:16.710104-0400 | ERROR | orchestrator | ❌ Enhanced system initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-05T13:18:44.980488-0400 | ERROR | orchestrator | Enhanced agent initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-05T13:18:44.980488-0400 | ERROR | orchestrator | ❌ Enhanced system initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-05T13:21:13.631265-0400 | ERROR | orchestrator | Enhanced agent initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-05T13:21:13.631904-0400 | ERROR | orchestrator | ❌ Enhanced system initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-05T13:22:09.235129-0400 | ERROR | orchestrator | Enhanced agent initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-05T13:22:09.235129-0400 | ERROR | orchestrator | ❌ Enhanced system initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-05T13:23:01.183080-0400 | ERROR | orchestrator | Enhanced agent initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-05T13:23:01.186078-0400 | ERROR | orchestrator | ❌ Enhanced system initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-07T16:36:35.432312-0400 | ERROR | orchestrator | Enhanced agent initialization failed: name 'DeviceCompatibilityChecker' is not defined
+2025-08-07T16:36:35.433415-0400 | ERROR | orchestrator | ❌ Enhanced system initialization failed: name 'DeviceCompatibilityChecker' is not defined

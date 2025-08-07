@@ -1,0 +1,18 @@
+2025-08-05T13:15:16.613036-0400 | INFO | core.logger | AMAPI Logger initialized: LLM_LocalProvider
+2025-08-05T13:15:16.615035-0400 | INFO | core.logger | Initialized 3 LLM providers
+2025-08-05T13:15:16.616037-0400 | INFO | core.logger | LLM Interface initialized
+2025-08-05T13:18:44.953434-0400 | INFO | core.logger | AMAPI Logger initialized: LLM_LocalProvider
+2025-08-05T13:18:44.953434-0400 | INFO | core.logger | Initialized 3 LLM providers
+2025-08-05T13:18:44.953434-0400 | INFO | core.logger | LLM Interface initialized
+2025-08-05T13:21:13.602820-0400 | INFO | core.logger | AMAPI Logger initialized: LLM_LocalProvider
+2025-08-05T13:21:13.602820-0400 | INFO | core.logger | Initialized 3 LLM providers
+2025-08-05T13:21:13.603805-0400 | INFO | core.logger | LLM Interface initialized
+2025-08-05T13:22:09.164334-0400 | INFO | core.logger | AMAPI Logger initialized: LLM_LocalProvider
+2025-08-05T13:22:09.165335-0400 | INFO | core.logger | Initialized 3 LLM providers
+2025-08-05T13:22:09.166326-0400 | INFO | core.logger | LLM Interface initialized
+2025-08-05T13:23:01.087485-0400 | INFO | core.logger | AMAPI Logger initialized: LLM_LocalProvider
+2025-08-05T13:23:01.088482-0400 | INFO | core.logger | Initialized 3 LLM providers
+2025-08-05T13:23:01.088482-0400 | INFO | core.logger | LLM Interface initialized
+2025-08-07T16:36:35.301810-0400 | INFO | core.logger | AMAPI Logger initialized: LLM_LocalProvider
+2025-08-07T16:36:35.302814-0400 | INFO | core.logger | Initialized 3 LLM providers
+2025-08-07T16:36:35.306820-0400 | INFO | core.logger | LLM Interface initialized

@@ -1,0 +1,6 @@
+2025-08-05T13:15:16.596281-0400 | INFO | core.logger | AMAPI Logger initialized: LLM_OpenAIProvider
+2025-08-05T13:18:44.947452-0400 | INFO | core.logger | AMAPI Logger initialized: LLM_OpenAIProvider
+2025-08-05T13:21:13.598421-0400 | INFO | core.logger | AMAPI Logger initialized: LLM_OpenAIProvider
+2025-08-05T13:22:09.146287-0400 | INFO | core.logger | AMAPI Logger initialized: LLM_OpenAIProvider
+2025-08-05T13:23:01.068477-0400 | INFO | core.logger | AMAPI Logger initialized: LLM_OpenAIProvider
+2025-08-07T16:36:35.281819-0400 | INFO | core.logger | AMAPI Logger initialized: LLM_OpenAIProvider

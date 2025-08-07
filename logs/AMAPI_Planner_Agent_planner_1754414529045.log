@@ -1,0 +1,2 @@
+2025-08-05T13:22:09.083011-0400 | INFO | core.logger | AMAPI Logger initialized: AMAPI_Planner_Agent_planner_1754414529045
+2025-08-05T13:22:09.085010-0400 | INFO | agents.base_agent | 🚀 Initialized AMAPI_Planner_Agent extending Agent-S (Active: True)

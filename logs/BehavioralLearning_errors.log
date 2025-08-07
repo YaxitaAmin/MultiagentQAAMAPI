@@ -1,0 +1,18 @@
+2025-08-05T13:15:16.638037-0400 | ERROR | core.logger | Error initializing agent attention: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:15:16.639049-0400 | ERROR | core.logger | Failed to initialize attention system: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:15:16.641036-0400 | ERROR | core.logger | Failed to start agent planner_1754414116464: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:18:44.959436-0400 | ERROR | core.logger | Error initializing agent attention: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:18:44.959436-0400 | ERROR | core.logger | Failed to initialize attention system: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:18:44.959436-0400 | ERROR | core.logger | Failed to start agent planner_1754414324911: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:21:13.609806-0400 | ERROR | core.logger | Error initializing agent attention: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:21:13.610806-0400 | ERROR | core.logger | Failed to initialize attention system: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:21:13.610806-0400 | ERROR | core.logger | Failed to start agent planner_1754414473561: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:22:09.181324-0400 | ERROR | core.logger | Error initializing agent attention: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:22:09.183325-0400 | ERROR | core.logger | Failed to initialize attention system: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:22:09.184325-0400 | ERROR | core.logger | Failed to start agent planner_1754414529045: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:23:01.114958-0400 | ERROR | core.logger | Error initializing agent attention: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:23:01.116948-0400 | ERROR | core.logger | Failed to initialize attention system: 'action_planning' is not a valid AttentionPoolType
+2025-08-05T13:23:01.118942-0400 | ERROR | core.logger | Failed to start agent planner_1754414580975: 'action_planning' is not a valid AttentionPoolType
+2025-08-07T16:36:35.357823-0400 | ERROR | core.logger | Error initializing agent attention: 'action_planning' is not a valid AttentionPoolType
+2025-08-07T16:36:35.358821-0400 | ERROR | core.logger | Failed to initialize attention system: 'action_planning' is not a valid AttentionPoolType
+2025-08-07T16:36:35.360821-0400 | ERROR | core.logger | Failed to start agent planner_1754598995179: 'action_planning' is not a valid AttentionPoolType
